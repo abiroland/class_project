@@ -2,7 +2,7 @@
 Predicting candidate percentage votes from state and county level data
 
 ---
-title: Predicting the Role of County and State Demographics in the 2020 US Presidential
+Predicting the Role of County and State Demographics in the 2020 US Presidential
   Election
 author: "Annika Meurs and Roland Abi"
 date: "2023-05-08"
